@@ -1,0 +1,9 @@
+# Visual Studio build output
+.vs/
+x64/
+Debug/
+Release/
+*.user
+
+# Created when the program runs
+frequency.dat
